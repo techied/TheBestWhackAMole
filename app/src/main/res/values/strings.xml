@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">The Best Whack A Mole</string>
+    <string name="startText">Begin</string>
+    <string name="title_activity_login">Sign in</string>
+</resources>
